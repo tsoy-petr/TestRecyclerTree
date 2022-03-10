@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/p_tsoy/AndroidStudioProjects/TestRecyclerTree/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1975" />
-        <entry key="..\:/Users/p_tsoy/AndroidStudioProjects/TestRecyclerTree/app/src/main/res/layout/activity_main.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/p_tsoy/AndroidStudioProjects/TestRecyclerTree/app/src/main/res/drawable/ic_keyboard_arrow_right_black_18dp.xml" value="0.1595" />
+        <entry key="..\:/Users/p_tsoy/AndroidStudioProjects/TestRecyclerTree/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/p_tsoy/AndroidStudioProjects/TestRecyclerTree/app/src/main/res/layout/item_dir.xml" value="0.17617753623188406" />
         <entry key="..\:/Users/p_tsoy/AndroidStudioProjects/TestRecyclerTree/app/src/main/res/layout/item_file.xml" value="0.17617753623188406" />
         <entry key="..\:/Users/p_tsoy/AndroidStudioProjects/TestRecyclerTree/app/src/main/res/menu/menu_main.xml" value="0.18802083333333333" />
